@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/get_fb_tokens/static/css/main.2cce8147.chunk.css",
+    "main.js": "/get_fb_tokens/static/js/main.443a5203.chunk.js",
+    "main.js.map": "/get_fb_tokens/static/js/main.443a5203.chunk.js.map",
+    "runtime~main.js": "/get_fb_tokens/static/js/runtime~main.93eafbd1.js",
+    "runtime~main.js.map": "/get_fb_tokens/static/js/runtime~main.93eafbd1.js.map",
+    "static/js/2.b41502e9.chunk.js": "/get_fb_tokens/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/get_fb_tokens/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/get_fb_tokens/index.html",
+    "precache-manifest.adad913129f1087957cad8d785520caf.js": "/get_fb_tokens/precache-manifest.adad913129f1087957cad8d785520caf.js",
+    "service-worker.js": "/get_fb_tokens/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/get_fb_tokens/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/get_fb_tokens/static/media/logo.5d5d9eef.svg"
+  }
+}
