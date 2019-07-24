@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c4a65ff8bd27633346a1275a63796e8",
+    "revision": "881c96bcc4980efc5014283d95185924",
     "url": "/kotik/index.html"
   },
   {
